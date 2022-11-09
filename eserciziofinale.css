@@ -1,0 +1,38 @@
+body{
+}
+.container{
+  margin: auto;
+  width: 1000px;
+  }
+
+
+.logo {
+  width: 200px;
+}
+
+header>h1{ color: green;}
+
+nav{
+  background-color: green;
+  align-content: center;
+  padding: 5px;
+}
+
+#Nomemonopattino {
+  font-size: 18px;
+}
+
+#Batteria-Gino22{
+  background-color: orange;
+  width: 45%;
+}
+
+#Batteria-Mike24{
+  background-color: green;
+  width: 75%;
+}
+
+#Batteria-Fede154{
+  background-color: red;
+  width: 22%;
+}
